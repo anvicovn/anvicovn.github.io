@@ -220,7 +220,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(0, 0, 0, 0.65)
+  background: rgba(60, 80, 130, 0.25)
 }
 .intro-text > h4 {
   margin: 0;
@@ -1665,4 +1665,3 @@ blockquote {
 .form-group:last-child input {
   margin: 0;
 }
-
